@@ -12,7 +12,7 @@
   margin: 0 auto;
   /* overflow: hidden; */
 }
-/*-----Similar design start -----*/
+/*-----Similar design end -----*/
 
 /*-----header section start -----*/
 .banner-container {
@@ -230,8 +230,8 @@
 }
 /* round images area */
 .img-middle-area {
-  width: 370px;
-  height: 370px;
+  width: 320px;
+  height: 320px;
 }
 .img-border {
   border: 15px solid #f00;
@@ -304,60 +304,58 @@
   text-align: center;
 }
 /* hliday img position section */
-.image-container{
+.image-container {
   width: 100%;
   height: 540px;
   border-radius: 16px;
-  position: relative;  
+  position: relative;
 }
-.image-container img{
+.image-container img {
   width: 100px;
 }
-.img-box1{
+.img-box1 {
   position: absolute;
   bottom: 0px;
   width: 1035px;
 }
-.img-box1 img{
+.img-box1 img {
   width: 100%;
 }
-.img-box2{
+.img-box2 {
   position: absolute;
   bottom: 35px;
   left: 35px;
 }
 
-.img-box2 img{
+.img-box2 img {
   width: 450px;
   height: 350px;
 }
 
-.img-box3{
+.img-box3 {
   position: absolute;
   bottom: 180px;
   right: 5px;
 }
-.img-box3 img{
+.img-box3 img {
   border-radius: 16px 16px 0px 0px;
   width: 350px;
   height: 350px;
 }
 
-.img-box4{
+.img-box4 {
   position: absolute;
   bottom: 230px;
   right: 250px;
 }
-.img-box4 img{
+.img-box4 img {
   width: 250px;
   height: 250px;
 }
-
-
 /* Holiday Section end */
 
 /* portfolio section start */
-.portfolio-area{
+.portfolio-area {
   margin-top: 120px;
 }
 .text h4 {
@@ -385,7 +383,7 @@
   margin-bottom: 67px;
 }
 /* image area */
-.img-container{
+.img-container {
   width: 100%;
   height: auto;
   display: flex;
@@ -394,11 +392,11 @@
   gap: 24px;
   justify-content: space-between;
 }
-.image-section{
+.image-section {
   width: 325px;
   height: 360px;
 }
-.image-section img{
+.image-section img {
   width: 100%;
   height: 100%;
   cursor: pointer;
@@ -410,7 +408,7 @@
   overflow: hidden;
   border-radius: 5px;
 }
-.image-section img{
+.image-section img {
   width: 100%;
   transition: all 0.3s ease-in-out;
 }
@@ -431,7 +429,6 @@
   text-align: center;
   border-radius: 16px;
 }
-
 .subscriber img {
   margin-top: 64px;
   widows: 120px;
@@ -457,7 +454,6 @@
 }
 
 /* form area */
-
 .subscriber form {
   margin: 0 auto;
   width: 520px;
@@ -491,7 +487,6 @@
 /* news-letter section end */
 
 /* footer section start */
-
 footer {
   margin-top: 96px;
   background: #070211;
@@ -522,35 +517,33 @@ address {
   padding-right: 16px;
   color: #fff;
 }
-hr {  
-  height: 1px;   
+hr {
+  height: 1px;
   background: rgba(255, 255, 255, 0.15);
-  border: none;  
-}  
+  border: none;
+}
 
 /* social area */
-.social-area{
-  text-align: center;  
+.social-area {
+  text-align: center;
   margin: 38px 0px;
 }
-.social-area a{
+.social-area a {
   margin-right: 20px;
 }
-.social-area a:last-child{
+.social-area a:last-child {
   margin-right: 0px;
 }
-
-.footer-bottom{
+.footer-bottom {
   display: flex;
   justify-content: space-between;
 }
-.copy-right{
+.copy-right {
   margin-top: 50px;
   font-weight: 500;
 }
-
-.subscrib button{
-  color: #FFF;
+.subscrib button {
+  color: #fff;
   font-family: Inter;
   font-weight: 500;
   font-size: 24px;
@@ -561,3 +554,6 @@ hr {
   cursor: pointer;
 }
 /* footer section end */
+
+
+/* 💛💛💚💗Thank you very much sir for viewing my assignment💗💚💛💛 */
